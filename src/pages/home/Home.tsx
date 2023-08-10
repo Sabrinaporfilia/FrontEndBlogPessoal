@@ -17,7 +17,7 @@ function Home() {
   
               <div className="flex justify-around gap-4">
               <ModalPostagem />
-              <button className='border rounded bg-slate hover:bg-white text-white-800 hover:text-black py-2 px-4 border-white-900'>Ver postagens</button>
+              
             </div>
             </div>
   
